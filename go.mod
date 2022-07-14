@@ -1,4 +1,4 @@
-module summerzb/driver/sqlserver
+module github.com/summerzb/sqlserver
 
 go 1.14
 
