@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlserver
+module summerzb/driver/sqlserver
 
 go 1.14
 
